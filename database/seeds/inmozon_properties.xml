@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+    <kyero>
+        <feed_version>3</feed_version>
+    </kyero>
+    <property>
+        <id>1160</id>
+        <date>2020-03-16 12:21:52</date>
+        <ref>RE001160</ref>
+        <price>327800</price>
+        <price_freq>sale</price_freq>
+        <currency>EUR</currency>
+        <part_ownership>0</part_ownership>
+        <leasehold>0</leasehold>
+        <new_build>0</new_build>
+        <type>Villa</type>
+        <town>Orihuela Costa</town>
+        <province>Alicante</province>
+        <notes>0</notes>
+        <beds>2</beds>
+        <baths>2</baths>
+        <pool>1</pool>
+        <location>		<latitude>37.925464</latitude>
+		<longitude>-0.728759</longitude>
+</location>
+        <surface_area>		<built>63</built>
+		<plot>0</plot>
+</surface_area>
+        <energy_rating>		<consumption>X</consumption>
+		<emissions>X</emissions>
+</energy_rating>
+        <url>
+	    <en>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1160.html</en>
+
+	    <es>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1160.html</es>
+
+	    <nl>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1160.html</nl>
+
+	    <fr>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1160.html</fr>
+
+	    <ru>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1160.html</ru>
+
+	    <de>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1160.html</de>
+
+	    <se>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1160.html</se>
+
+	    <no>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1160.html</no>
+
+	    <fi>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1160.html</fi>
+
+	    <pl>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1160.html</pl>
+
+	    <it>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1160.html</it>
+
+	    <ro>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1160.html</ro>
+
+        </url>
+        <desc>
+	    <en>. Luxury villa in La Zenia on one floor with solarium. It consists of 2 bedrooms and 2 bathrooms, living room, kitchen, large garden with private pool. The urbanization has green areas and a community pool. Located next to the services, bars and restaurants, CC Zenia Boulevard, golf courses, etc. The closest beach is only 2 min. by car.
+</en>
+
+	    <es>. Villa de lujo en La Zenia en una planta con solarium. Consta de 2 dormitorios y 2 baños, salón-comedor, cocina, gran jardin con piscina privada. La urbanizacion cuenta con zonas verdes y piscina comunitaria. Ubicado al lado de los servicios, bares y restaurantes, CC Zenia Boulevard, campos de golf, etc. La playa más cercana se encuentra a tan sólo 2 min. en coche.
+</es>
+
+	    <nl>. Luxe villa in La Zenia op één verdieping met solarium. Het heeft 2 slaapkamers en 2 badkamers, woonkamer, keuken, grote tuin met privé zwembad. De urbanisatie heeft groene zones en een gemeenschappelijk zwembad. Gelegen naast de diensten, bars en restaurants, CC Zenia Boulevard, golfbanen, etc. Het dichtstbijzijnde strand ligt op slechts 2 minuten. met de auto.
+</nl>
+
+	    <fr>. Villa de luxe à La Zenia sur un étage avec solarium. Il se compose de 2 chambres et 2 salles de bain, salon, cuisine, grand jardin avec piscine privée. L'urbanisation a des espaces verts et une piscine communautaire. Situé à côté des services, bars et restaurants, CC Zenia Boulevard, terrains de golf, etc. La plage la plus proche est à seulement 2 min. en voiture.
+</fr>
+
+	    <ru>. Роскошная вилла в Зении в один этаж с солярием. Состоит из 2 спален и 2 ванных комнат, гостиной, кухни, большого сада с частным бассейном. Урбанизация имеет зеленые зоны и общественный бассейн. Расположен рядом с услугами, барами и ресторанами, ком центром Zenia Boulevard, полями для гольфа и т. д. Ближайший пляж находится всего в 2 мин. на машине.
+</ru>
+
+	    <de>.  Luxusvilla in La Zenia auf einer Etage mit Solarium. Es besteht aus 2 Schlafzimmern und 2 Bädern, Wohnzimmer, Küche, großem Garten mit privatem Pool. Die Urbanisierung hat Grünflächen und einen Gemeinschaftspool. Das Hotel liegt neben den Dienstleistungen, Bars und Restaurants, dem CC Zenia Boulevard, Golfplätzen usw. Der nächste Strand ist nur 2 min. mit dem Auto. </de>
+
+	    <se>.  Lyxvilla i La Zenia på en våning med solarium. Den består av 2 sovrum och 2 badrum, vardagsrum, kök, stor trädgård med privat pool. Urbaniseringen har gröna områden och en gemensam pool. Beläget bredvid tjänsterna, barer och restauranger, CC Zenia Boulevard, golfbanor etc. Den närmaste stranden är bara 2 min. med bil. </se>
+
+	    <no>.  Luksusvilla i La Zenia i en etasje med solarium. Den består av 2 soverom og 2 bad, stue, kjøkken, stor hage med privat basseng. Urbaniseringen har grønne områder og et samfunnspool. Ligger ved siden av tjenester, barer og restauranter, CC Zenia Boulevard, golfbaner, etc. Den nærmeste stranden er bare 2 min. med bil. </no>
+
+	    <fi>.  Ylellinen huvila La Zeniassa yhdessä kerroksessa solariumin kanssa. Siinä on 2 makuuhuonetta ja 2 kylpyhuonetta, olohuone, keittiö, iso puutarha, jossa oma uima-allas. Kaupungistumisessa on viheralueita ja uima-allas. Sijaitsee palveluiden, baarien ja ravintoloiden, CC Zenia Boulevard, golfkenttien jne. Vieressä. Lähin ranta on vain 2 min. autolla. </fi>
+
+	    <pl>.  Luksusowa willa w La Zenia na jednym piętrze z solarium. Składa się z 2 sypialni i 2 łazienek, salonu, kuchni, dużego ogrodu z prywatnym basenem. Urbanizacja ma tereny zielone i basen społeczności. Położony obok usług, barów i restauracji, CC Zenia Boulevard, pól golfowych itp. Najbliższa plaża to tylko 2 minuty. samochodem </pl>
+
+	    <it>.  Villa di lusso a La Zenia su un piano con solarium. Si compone di 2 camere da letto e 2 bagni, soggiorno, cucina, ampio giardino con piscina privata. L'urbanizzazione ha aree verdi e un pool di comunità. Situato vicino a servizi, bar e ristoranti, CC Zenia Boulevard, campi da golf, ecc. La spiaggia più vicina è a soli 2 minuti. in macchina. </it>
+
+	    <ro>.  Vilă de lux în La Zenia la un etaj cu solar. Este format din 2 dormitoare și 2 băi, living, bucătărie, grădină mare cu piscină privată. Urbanizarea are zone verzi și o piscină comunitară. Situat lângă servicii, baruri și restaurante, bulevardul CC Zenia, terenuri de golf etc. Cea mai apropiată plajă este de doar 2 minute. cu mașina. </ro>
+
+        </desc>
+        <features>
+	    <feature><![CDATA[Half an hour to Alicante airport]]></feature>
+
+	    <feature><![CDATA[Less than 2 km. from the sea]]></feature>
+
+	    <feature><![CDATA[Air conditioning]]></feature>
+
+	    <feature><![CDATA[Furnished]]></feature>
+
+	    <feature><![CDATA[White goods]]></feature>
+
+	    <feature><![CDATA[Solarium]]></feature>
+
+	    <feature><![CDATA[Terrace]]></feature>
+
+	    <feature><![CDATA[Utility room]]></feature>
+
+	    <feature><![CDATA[Close to international schools]]></feature>
+
+	    <feature><![CDATA[Near commercial centres, restaurants and other amenities]]></feature>
+
+	    <feature><![CDATA[Close to golf course]]></feature>
+
+        </features>
+        <images>
+	    <image id="1"><url>https://oleinternational.com/images/viviendas/1160/g_h4fszvuoo56cpeu2or5r.JPG</url></image>
+
+	    <image id="2"><url>https://oleinternational.com/images/viviendas/1160/g_cf2mwvwgk4tj3d72f8zp.JPG</url></image>
+
+	    <image id="3"><url>https://oleinternational.com/images/viviendas/1160/g_ddko2c837kq7eue5wts6.JPG</url></image>
+
+	    <image id="4"><url>https://oleinternational.com/images/viviendas/1160/g_vc2dxa0o8t3rcvp0rmcq.JPG</url></image>
+
+	    <image id="5"><url>https://oleinternational.com/images/viviendas/1160/g_ptj5g2of67vmnaptodkh.JPG</url></image>
+
+	    <image id="6"><url>https://oleinternational.com/images/viviendas/1160/g_k0hk0q4ca5zyfapyetjx.JPG</url></image>
+
+	    <image id="7"><url>https://oleinternational.com/images/viviendas/1160/g_047as5v84fq5h6jq2uya.JPG</url></image>
+
+	    <image id="8"><url>https://oleinternational.com/images/viviendas/1160/g_s4sn5f8h7iakcsiby64p.JPG</url></image>
+
+	    <image id="9"><url>https://oleinternational.com/images/viviendas/1160/g_np7v7ji3qanrpsv76vdk.JPG</url></image>
+
+	    <image id="10"><url>https://oleinternational.com/images/viviendas/1160/g_67m0hy3vg0h8t6jr4akp.JPG</url></image>
+
+	    <image id="11"><url>https://oleinternational.com/images/viviendas/1160/g_it60ein3awemi8x53zbe.JPG</url></image>
+
+	    <image id="12"><url>https://oleinternational.com/images/viviendas/1160/g_isz7od4ssrhcy7wyfvhq.JPG</url></image>
+
+	    <image id="13"><url>https://oleinternational.com/images/viviendas/1160/g_h88b6pe4xh2xfvu7bip4.JPG</url></image>
+
+	    <image id="14"><url>https://oleinternational.com/images/viviendas/1160/g_tnxms88ozsvvhhdhqxkh.JPG</url></image>
+
+	    <image id="15"><url>https://oleinternational.com/images/viviendas/1160/g_e2p3fvt8363pjnunzga5.JPG</url></image>
+
+	    <image id="16"><url>https://oleinternational.com/images/viviendas/1160/g_b3orgu5qj8s7j7uh8txo.JPG</url></image>
+
+	    <image id="17"><url>https://oleinternational.com/images/viviendas/1160/g_4z7pavtoj0bwrh85dhtm.jpg</url></image>
+
+        </images>
+        <country>Spain</country>
+    </property>
+    <property>
+        <id>1158</id>
+        <date>2020-08-24 10:47:29</date>
+        <ref>RE001158</ref>
+        <price>158400</price>
+        <price_freq>sale</price_freq>
+        <currency>EUR</currency>
+        <part_ownership>0</part_ownership>
+        <leasehold>0</leasehold>
+        <new_build>0</new_build>
+        <type>Ground floor apartment</type>
+        <town>Orihuela Costa</town>
+        <province>Alicante</province>
+        <notes>0</notes>
+        <beds>2</beds>
+        <baths>1</baths>
+        <pool>1</pool>
+        <location>		<latitude>37.930199</latitude>
+		<longitude>-0.723937</longitude>
+</location>
+        <surface_area>		<built>71</built>
+		<plot>0</plot>
+</surface_area>
+        <energy_rating>		<consumption>X</consumption>
+		<emissions>X</emissions>
+</energy_rating>
+        <url>
+	    <en>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1158.html</en>
+
+	    <es>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1158.html</es>
+
+	    <nl>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1158.html</nl>
+
+	    <fr>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1158.html</fr>
+
+	    <ru>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1158.html</ru>
+
+	    <de>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1158.html</de>
+
+	    <se>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1158.html</se>
+
+	    <no>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1158.html</no>
+
+	    <fi>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1158.html</fi>
+
+	    <pl>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1158.html</pl>
+
+	    <it>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1158.html</it>
+
+	    <ro>https://oleinternational.com/en/properties//costa-blanca-south/orihuela-costa/-1158.html</ro>
+
+        </url>
+        <desc>
+	    <en>. Ground floor apartment in Playa Flamenca. It consists of 2 bedrooms and 1 bathroom, a living-dining room, kitchen and a terrace. Urbanization has green areas and community pool. Located near the services, bars and restaurants, CC Zenia Boulevard, golf courses, etc. The closest beach is only 3 min. by car.
+</en>
+
+	    <es>. Apartamento en planta baja en Playa Flamenca. Consta de 2 dormitorios y 1 baño, salón-comedor, cocina y una terraza. Urbanizacion cuenta con zonas verdes y piscina comunitaria. Ubicado cerca de los servicios, bares y restaurantes, CC Zenia Boulevard, campos de golf, etc. La playa más cercana se encuentra a tan sólo 3 min. en coche.
+</es>
+
+	    <nl>. Appartement op de begane grond in Playa Flamenca. Het bestaat uit 2 slaapkamers en 1 badkamer, woon-eetkamer, keuken en een terras. Verstedelijking heeft groene zones en een gemeenschappelijk zwembad. Gelegen nabij de diensten, bars en restaurants, CC Zenia Boulevard, golfbanen, etc. Het dichtstbijzijnde strand ligt op slechts 3 minuten. met de auto.
+</nl>
+
+	    <fr>. Appartement au rez-de-chaussée à Playa Flamenca. Il se compose de 2 chambres et 1 salle de bain, salon-salle à manger, cuisine et terrasse. L'urbanisation a des espaces verts et une piscine communautaire. Situé à proximité des services, bars et restaurants, CC Zenia Boulevard, terrains de golf, etc. La plage la plus proche est à seulement 3 min. en voiture.
+</fr>
+
+	    <ru>. Апартамент на нижнем этаже в Плайя Фламенка. Состоит из 2 спален и 1 ванной комнаты, гостиной, кухни и террасы. Урбанизация имеет зеленые зоны и общественный бассейн. Находится рядом с услугами, барами и ресторанами, ком. центром Zenia Boulevard, полями для гольфа и т. д. Ближайший пляж находится всего в 3 мин. на машине.
+</ru>
+
+	    <de>. Erdgeschosswohnung in Playa Flamenca. Es besteht aus 2 Schlafzimmern und 1 Badezimmer, Wohn-Esszimmer, Küche und einer Terrasse. Die Urbanisierung hat Grünflächen und einen Gemeinschaftspool. Das Hotel liegt in der Nähe der Dienstleistungen, Bars und Restaurants, des CC Zenia Boulevard, der Golfplätze usw. Der nächste Strand ist nur 3 min. mit dem Auto.
+</de>
+
+	    <se>. Bottenvåning i Playa Flamenca. Den består av 2 sovrum och 1 badrum, vardagsrum med matsal, kök och en terrass. Urbanisering har gröna områden och gemensam pool. Ligger nära tjänsterna, barer och restauranger, CC Zenia Boulevard, golfbanor etc. Den närmaste stranden är bara 3 min. med bil.
+</se>
+
+	    <no>. Leilighet i første etasje i Playa Flamenca. Den består av 2 soverom og 1 bad, stue-spisestue, kjøkken og terrasse. Urbanisering har grøntarealer og et basseng. Ligger i nærheten av tjenester, barer og restauranter, CC Zenia Boulevard, golfbaner, etc. Den nærmeste stranden er bare 3 min. med bil.
+</no>
+
+	    <fi>. Pohjakerroksen huoneisto Playa Flamencassa. Se koostuu 2 makuuhuoneesta ja 1 kylpyhuoneesta, olohuoneesta, keittiöstä ja terassista. Kaupungistumisessa on viheralueita ja uima-allas. Sijaitsee lähellä palveluita, baareja ja ravintoloita, CC Zenia Boulevard, golfkenttiä jne. Lähin ranta on vain 3 min. autolla.
+</fi>
+
+	    <pl>. Mieszkanie na parterze w Playa Flamenca. Składa się z 2 sypialni i 1 łazienki, salonu z jadalnią, kuchni i tarasu. Urbanizacja ma tereny zielone i pulę społeczności. Położony w pobliżu usług, barów i restauracji, CC Zenia Boulevard, pól golfowych itp. Najbliższa plaża to tylko 3 min. samochodem
+</pl>
+
+	    <it>. Appartamento al piano terra a Playa Flamenca. Si compone di 2 camere da letto e 1 bagno, soggiorno-pranzo, cucina e terrazza. L'urbanizzazione ha aree verdi e pool di comunità. Situato vicino a servizi, bar e ristoranti, CC Zenia Boulevard, campi da golf, ecc. La spiaggia più vicina è a soli 3 minuti. in macchina.
+</it>
+
+	    <ro>. Apartament la parter în Playa Flamenca. Este format din 2 dormitoare și 1 baie, sufragerie, bucătărie și terasă. Urbanizarea are zone verzi și piscină comunitară. Situat în apropierea serviciilor, barurilor și restaurantelor, bulevardul CC Zenia, terenuri de golf etc. Cea mai apropiată plajă este de doar 3 minute. cu mașina.
+</ro>
+
+        </desc>
+        <features>
+	    <feature><![CDATA[Half an hour to Alicante airport]]></feature>
+
+	    <feature><![CDATA[Less than 2 km. from the sea]]></feature>
+
+	    <feature><![CDATA[Air conditioning]]></feature>
+
+	    <feature><![CDATA[Furnished]]></feature>
+
+	    <feature><![CDATA[White goods]]></feature>
+
+	    <feature><![CDATA[Terrace]]></feature>
+
+	    <feature><![CDATA[Close to international schools]]></feature>
+
+	    <feature><![CDATA[Near commercial centres, restaurants and other amenities]]></feature>
+
+	    <feature><![CDATA[Close to golf course]]></feature>
+
+        </features>
+        <images>
+	    <image id="1"><url>https://oleinternational.com/images/viviendas/1158/g_ymcoddso6eehoenkccck.JPG</url></image>
+
+	    <image id="2"><url>https://oleinternational.com/images/viviendas/1158/g_w8jv2shnxnpdc38hbv02.JPG</url></image>
+
+	    <image id="3"><url>https://oleinternational.com/images/viviendas/1158/g_rnkjj2yreshjkczgkz6f.JPG</url></image>
+
+	    <image id="4"><url>https://oleinternational.com/images/viviendas/1158/g_gzeue35eae7vrip4y0dh.JPG</url></image>
+
+	    <image id="5"><url>https://oleinternational.com/images/viviendas/1158/g_zfjsvyzk0fawzcqfcf56.JPG</url></image>
+
+	    <image id="6"><url>https://oleinternational.com/images/viviendas/1158/g_jzjiuq2fjein8hamh8e8.JPG</url></image>
+
+	    <image id="7"><url>https://oleinternational.com/images/viviendas/1158/g_qprgq4e3egrwiuxmqe2o.JPG</url></image>
+
+	    <image id="8"><url>https://oleinternational.com/images/viviendas/1158/g_tacdogkpfvvrqmzkbth0.JPG</url></image>
+
+	    <image id="9"><url>https://oleinternational.com/images/viviendas/1158/g_vygzq502kocoe7crk5ie.JPG</url></image>
+
+	    <image id="10"><url>https://oleinternational.com/images/viviendas/1158/g_fa6k66tm2p3kuvae0vmu.JPG</url></image>
+
+	    <image id="11"><url>https://oleinternational.com/images/viviendas/1158/g_q5wu86ktaibcp5bwmtph.JPG</url></image>
+
+	    <image id="12"><url>https://oleinternational.com/images/viviendas/1158/g_6pt3coz0t5cejtg2o0g2.JPG</url></image>
+
+	    <image id="13"><url>https://oleinternational.com/images/viviendas/1158/g_dejyreybuqyfkccxvkbt.JPG</url></image>
+
+	    <image id="14"><url>https://oleinternational.com/images/viviendas/1158/g_fduong3dsse76kqdwpj6.JPG</url></image>
+
+	    <image id="15"><url>https://oleinternational.com/images/viviendas/1158/g_8sycqmv4m2tq24co75t3.JPG</url></image>
+
+        </images>
+        <country>Spain</country>
+    </property>
+    <property>
+        <id>1141</id>
+        <date>2020-03-23 12:19:43</date>
+        <ref>RE001141</ref>
+        <price>82000</price>
+        <price_freq>sale</price_freq>
+        <currency>EUR</currency>
+        <part_ownership>0</part_ownership>
+        <leasehold>0</leasehold>
+        <new_build>0</new_build>
+        <type>Apartment</type>
+        <town>Torrevieja</town>
+        <province>Alicante</province>
+        <notes>0</notes>
+        <beds>2</beds>
+        <baths>1</baths>
+        <pool>1</pool>
+        <location>		<latitude>37.984700</latitude>
+		<longitude>-0.680823</longitude>
+</location>
+        <surface_area>		<built>74</built>
+		<plot>0</plot>
+</surface_area>
+        <energy_rating>		<consumption>X</consumption>
+		<emissions>X</emissions>
+</energy_rating>
+        <url>
+	    <en>https://oleinternational.com/en/properties//costa-blanca-south/torrevieja/-1141.html</en>
+
+	    <es>https://oleinternational.com/en/properties//costa-blanca-south/torrevieja/-1141.html</es>
+
+	    <nl>https://oleinternational.com/en/properties//costa-blanca-south/torrevieja/-1141.html</nl>
+
+	    <fr>https://oleinternational.com/en/properties//costa-blanca-south/torrevieja/-1141.html</fr>
+
+	    <ru>https://oleinternational.com/en/properties//costa-blanca-south/torrevieja/-1141.html</ru>
+
+	    <de>https://oleinternational.com/en/properties//costa-blanca-south/torrevieja/-1141.html</de>
+
+	    <se>https://oleinternational.com/en/properties//costa-blanca-south/torrevieja/-1141.html</se>
+
+	    <no>https://oleinternational.com/en/properties//costa-blanca-south/torrevieja/-1141.html</no>
+
+	    <fi>https://oleinternational.com/en/properties//costa-blanca-south/torrevieja/-1141.html</fi>
+
+	    <pl>https://oleinternational.com/en/properties//costa-blanca-south/torrevieja/-1141.html</pl>
+
+	    <it>https://oleinternational.com/en/properties//costa-blanca-south/torrevieja/-1141.html</it>
+
+	    <ro>https://oleinternational.com/en/properties//costa-blanca-south/torrevieja/-1141.html</ro>
+
+        </url>
+        <desc>
+	    <en>. Cozy apartment a few meters from the beach in Torrevieja. It is a 1st floor and consists of 2 bedrooms and 1 bathroom, living room, kitchen and large patio-terrace. Located near all services, bars and restaurants, supermarket, bus stop, center and promenade, etc.
+</en>
+
+	    <es>. Acogedor apartamento a escasos metros de la playa en Torrevieja. Es una 1ª planta y consta de 2 dormitorios y 1 baño, salón-comedor, cocina y gran terraza-patio. Ubicado cerca de todos los servicios, bares y restaurantes, supermercado, parada de bus, centro y paseo maritimo, etc. 
+</es>
+
+	    <nl>. Gezellig appartement op een paar meter van het strand in Torrevieja. Het is een 1e verdieping en bestaat uit 2 slaapkamers en 1 badkamer, woonkamer, keuken en een groot terras-terras. Gelegen nabij alle diensten, bars en restaurants, supermarkt, bushalte, centrum en boulevard, etc.
+</nl>
+
+	    <fr>. Appartement confortable à quelques mètres de la plage de Torrevieja. C'est un 1er étage et se compose de 2 chambres et 1 salle de bain, salon, cuisine et grande terrasse-patio. Situé près de tous les services, bars et restaurants, supermarché, arrêt de bus, centre et promenade, etc.
+</fr>
+
+	    <ru>. Просторная, большая и солнечная квартира с огромной собственной террасой в 35м2. Дом с лифтом. В 500 метрах от пляжа Асекйон. Сильно развита инфраструктура. Рядом все необходимое как для отдыха, так и для постоянного проживания. Квартира состоит из просторной гостиной, кухни открытого типа, двух спальных комнат с внутренними шкафами, ванной комнаты, а так же огромной террасы, где можно поставить беседку, джакуззи, бассейн , разбить сад... Квартира полностью оборудована и готова для проживания. 
+</ru>
+
+	    <de>.  Gemütliche Wohnung nur wenige Meter vom Strand entfernt in Torrevieja. Es befindet sich im 1. Stock und besteht aus 2 Schlafzimmern und 1 Badezimmer, einem Wohnzimmer, einer Küche und einer großen Terrasse. Das Hotel liegt in der Nähe aller Dienstleistungen, Bars und Restaurants, Supermarkt, Bushaltestelle, Zentrum und Promenade usw. </de>
+
+	    <se>.  Mysig lägenhet några meter från stranden i Torrevieja. Det är en 1: a våningen och består av 2 sovrum och 1 badrum, vardagsrum, kök och stor terrass-uteplats. Ligger nära alla tjänster, barer och restauranger, stormarknad, busshållplats, centrum och strandpromenaden, etc. </se>
+
+	    <no>.  Koselig leilighet noen få meter fra stranden i Torrevieja. Det er en etasje og består av 2 soverom og 1 bad, stue, kjøkken og stor terrasse-uteplass. Ligger i nærheten av alle tjenester, barer og restauranter, supermarked, bussholdeplass, sentrum og promenade, etc. </no>
+
+	    <fi>.  Viihtyisä huoneisto muutaman metrin päässä rannasta Torreviejassa. Se on 1. kerros ja siinä on 2 makuuhuonetta ja 1 kylpyhuone, olohuone, keittiö ja iso terassi-patio. Sijaitsee lähellä kaikkia palveluita, baareja ja ravintoloita, supermarketteja, bussipysäkkiä, keskustaa ja kävelykatua jne. </fi>
+
+	    <pl>.  Przytulny apartament kilka metrów od plaży w Torrevieja. Jest to 1. piętro i składa się z 2 sypialni i 1 łazienki, salonu, kuchni oraz dużego tarasu z patio. Położony w pobliżu wszystkich usług, barów i restauracji, supermarketu, przystanku autobusowego, centrum i promenady itp. </pl>
+
+	    <it>.  Accogliente appartamento a pochi metri dalla spiaggia di Torrevieja. È al 1 ° piano ed è composto da 2 camere da letto e 1 bagno, soggiorno, cucina e ampio terrazzo-patio. Situato vicino a tutti i servizi, bar e ristoranti, supermercato, fermata dell'autobus, centro e lungomare, ecc. </it>
+
+	    <ro>.  Apartament confortabil, la câțiva metri de plaja din Torrevieja. Este un etaj 1 și este format din 2 dormitoare și 1 baie, living, bucătărie și terasă mare. Situat lângă toate serviciile, barurile și restaurantele, supermarketul, stația de autobuz, centrul și promenada etc. </ro>
+
+        </desc>
+        <features>
+	    <feature><![CDATA[Near the sea]]></feature>
+
+	    <feature><![CDATA[Half an hour to Alicante airport]]></feature>
+
+	    <feature><![CDATA[Less than 500 meters from the sea]]></feature>
+
+	    <feature><![CDATA[Air conditioning]]></feature>
+
+	    <feature><![CDATA[Furnished]]></feature>
+
+	    <feature><![CDATA[White goods]]></feature>
+
+	    <feature><![CDATA[Terrace]]></feature>
+
+	    <feature><![CDATA[Lift]]></feature>
+
+	    <feature><![CDATA[Close to international schools]]></feature>
+
+	    <feature><![CDATA[Near commercial centres, restaurants and other amenities]]></feature>
+
+	    <feature><![CDATA[Close to golf course]]></feature>
+
+        </features>
+        <images>
+	    <image id="1"><url>https://oleinternational.com/images/viviendas/1141/g_vvuopneikejriwncgegk.JPG</url></image>
+
+	    <image id="2"><url>https://oleinternational.com/images/viviendas/1141/g_vjyibuosnrgnjohnrp8x.JPG</url></image>
+
+	    <image id="3"><url>https://oleinternational.com/images/viviendas/1141/g_iohr52jyffhp4f4urwhh.JPG</url></image>
+
+	    <image id="4"><url>https://oleinternational.com/images/viviendas/1141/g_5d3m2exgmz26atccn83e.JPG</url></image>
+
+	    <image id="5"><url>https://oleinternational.com/images/viviendas/1141/g_4uai7z4ok76cr7jhfx0v.JPG</url></image>
+
+	    <image id="6"><url>https://oleinternational.com/images/viviendas/1141/g_ypc0mz0a5rw0ah437sw6.JPG</url></image>
+
+	    <image id="7"><url>https://oleinternational.com/images/viviendas/1141/g_t4bmy4pwyab7yx5rb7i3.JPG</url></image>
+
+	    <image id="8"><url>https://oleinternational.com/images/viviendas/1141/g_x36revmq6effiy6v2vst.JPG</url></image>
+
+	    <image id="9"><url>https://oleinternational.com/images/viviendas/1141/g_67rqz0g85kf0hhhtaxxa.JPG</url></image>
+
+	    <image id="10"><url>https://oleinternational.com/images/viviendas/1141/g_gtw6pq00kjt8xtyuvv5z.JPG</url></image>
+
+	    <image id="11"><url>https://oleinternational.com/images/viviendas/1141/g_vzr22aa2a7i0b6zokvkw.JPG</url></image>
+
+	    <image id="12"><url>https://oleinternational.com/images/viviendas/1141/g_oob0d4gayazqbtq2ze33.JPG</url></image>
+
+	    <image id="13"><url>https://oleinternational.com/images/viviendas/1141/g_fauadg7zgdj375sp8xvu.JPG</url></image>
+
+	    <image id="14"><url>https://oleinternational.com/images/viviendas/1141/g_7363uvp3g5sknfq8ixe3.JPG</url></image>
+
+	    <image id="15"><url>https://oleinternational.com/images/viviendas/1141/g_7w7n388gistudn4eaqwh.JPG</url></image>
+
+	    <image id="16"><url>https://oleinternational.com/images/viviendas/1141/g_rz53nu8wwihziyogiczo.JPG</url></image>
+
+        </images>
+        <country>Spain</country>
+    </property>
+    </root>
