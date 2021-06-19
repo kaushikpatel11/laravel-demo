@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45.53 45.53">
+    <defs>
+        <style>.cls-1{fill:#fc0;}.cls-2{fill:#1d1d1b;fill-rule:evenodd;}</style>
+    </defs>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Capa_1" data-name="Capa 1">
+            <path style="fill:#b4cdde" class="cls-1"
+                  d="M45.53,23.5c0,15.63-7.14,22-22.77,22S0,39.13,0,23.5,7.13,0,22.76,0,45.53,7.87,45.53,23.5"/>
+            <path   class="cls-2"
+                  d="M25,37V24H29.3L30,19H25V15.74c0-1.46.41-2.45,2.5-2.45h2.67V8.77a36,36,0,0,0-3.89-.2c-3.85,0-6.49,2.36-6.49,6.67V19H15.4V24h4.35V37Z"/>
+        </g>
+    </g>
+</svg>

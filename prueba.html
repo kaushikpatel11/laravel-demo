@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<body>
+<div style="padding-right: 50px; padding-left: 50px">
+    <img id="logo" width="160" height="40" src="{{asset('/assets/backend/media/logos/inmozon.png')}}"
+         style="padding-top: 3em"></img>
+    <h1 style="text-align: center; margin-top: 4em; margin-bottom: 2em">Documento de registro de cliente</h1>
+    <p><b>D. {{$owner_name}} {{$owner_surname}}</b> con DNI <b>{{$nif}}</b> verifica que en fecha <b>{{$date}}</b>
+        la agencia inmobiliaria <b>{{$commercial_name}}</b> ha realizado visita comercial
+        con el cliente <b>{{$client_name}}</b> con documento de identidad <b>{{$client_dni}}</b>
+        a la siguiente vivienda objeto del encargo de venta con la plataforma
+        Inmozon y sus agencias inmobiliarias miembro:</p>
+    <qwe>En:</qwe>
+    <br>
+    <qwe>{{$street}}</qwe>
+    <br>
+    <qwe>{{$city}}</qwe>
+    <br>
+    <qwe>{{$city}}</qwe>
+    <br>
+    <qwe>{{$postal_code}} - {{$county}}</qwe>
+    <br>
+    <ul>
+        <li>Precio : {{$price}}€</li>
+        <li>Comisión de agencia: {{$agency_commissions}}% sobre PVP con un mínimo de {{$minimum_commission}}€ más IVA
+        </li>
+        <li>Comisión calculada: {{$commission}}€</li>
+    </ul>
+    <p>Como consecuencia de la visita realizada por la inmobiliaria <b>{{$commercial_name}}</b>,
+        se ha generado el presente documento electrónico de registro de cliente.
+    </p>
+</div>
+</body>
+</html>

@@ -1,0 +1,55 @@
+### CREATION
+CREATE DATABASE `local-inmozon-1-0` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci */;
+ALTER DATABASE `local-inmozon-1-0` CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+DROP DATABASE `local-inmozon-1-0`;
+SELECT @@character_set_database, @@collation_database;
+SHOW VARIABLES LIKE '%character%';
+SHOW VARIABLES LIKE '%collation%';
+
+### DATABASE CHARACTER SET & COLLATION
+SELECT default_character_set_name, default_collation_name FROM information_schema.SCHEMATA WHERE schema_name = 'local-inmozon-1-0';
+
+### TABLE CHARACTER SET & COLLATION
+SELECT T.table_name, CCSA.character_set_name, T.table_collation FROM information_schema.`TABLES` T, information_schema.`COLLATION_CHARACTER_SET_APPLICABILITY` CCSA WHERE CCSA.collation_name = T.table_collation AND T.table_schema = 'local-inmozon-1-0';
+
+### COLUMNS CHARACTER SET & COLLATION
+SELECT table_name, column_name, character_set_name, collation_name FROM information_schema.`COLUMNS` C WHERE character_set_name != 'NULL' AND table_schema = 'local-inmozon-1-0';
+
+### DUMP DATA AND STRUCTURE
+mysqldump --verbose --default-character-set=[charset_name] --opt --routines --compress --host=[host] --user=[user] --password=[password] --result-file=[file_name] db_name
+mysqldump --verbose --default-character-set=utf8 --opt --routines --compress --host=192.168.10.10 --user=homestead --password=secret --result-file=local-inmozon-1-0.sql local-inmozon-1-0
+
+### RESTORE
+mysql --verbose --default-character-set=[charset_name] --compress --host=[host] --user=[user] --password=[password] db_name < file.sql
+mysql --verbose --default-character-set=utf8 --compress --host=192.168.10.10 --user=homestead --password=secret local-inmozon-1-0 < local-inmozon-1-0.sql
+
+### CLEAN (-E for BSD sed, -r for GNU sed)
+sed -E 's/DEFINER=`[^`]+`@`[^`]+`/DEFINER=CURRENT_USER/g' non_portable_dump.sql > portable_dump.sql
+sed -r 's/DEFINER=`[^`]+`@`[^`]+`/DEFINER=CURRENT_USER/g' non_portable_dump.sql > portable_dump.sql
+
+### FULL MIGRATION WITH SEEDERS
+php artisan migrate --seed
+
+### SPECIFIC MIGRATION
+php artisan migrate --path=/database/migrations/migration_file.php
+
+### SPECIFIC SEEDER
+php artisan db:seed --class=SeederClass.php
+
+### KEY GENERATE
+php artisan key:generate
+
+### STORAGE LINK
+php artisan storage:link
+
+### PASSPORT
+php artisan passport:install
+
+### CLEAR
+php artisan optimize:clear
+
+### DUMP AUTOLOAD CLASSES
+composer dump-autolad
+
+### CLEAR LARAVEL LOG
+truncate -s 0 storage/logs/laravel.log

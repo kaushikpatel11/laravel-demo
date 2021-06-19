@@ -1,0 +1,32 @@
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="47.98mm" height="45.01mm" viewBox="0 0 136 127.59">
+    <defs>
+        <radialGradient id="GradientFill_2" cx="62.87" cy="63.72" r="56.74" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#f4d535"/>
+            <stop offset="0.48" stop-color="#f4d535"/>
+            <stop offset="0.82" stop-color="#f4c535"/>
+            <stop offset="1" stop-color="#f3b435"/>
+        </radialGradient>
+        <radialGradient id="GradientFill_2-2" cx="62.89" cy="63.7" r="68.68" xlink:href="#GradientFill_2"/>
+        <radialGradient id="GradientFill_2-3" cx="120.33" cy="64.25" r="57.23" xlink:href="#GradientFill_2"/>
+        <radialGradient id="GradientFill_2-4" cx="62.52" cy="61.91" r="34.75" xlink:href="#GradientFill_2"/>
+        <radialGradient id="GradientFill_2-5" cx="51.61" cy="41.23" r="8.76" xlink:href="#GradientFill_2"/>
+        <radialGradient id="GradientFill_2-6" cx="67.74" cy="50.75" r="4.32" xlink:href="#GradientFill_2"/>
+    </defs>
+    <title>ICONO LUPA</title>
+    <path style="fill: #cea274"
+        d="M63,20.34A43.46,43.46,0,1,0,106.24,64,43.51,43.51,0,0,0,63,20.34Zm-.45,92.16A48.71,48.71,0,1,1,111.49,64,48.76,48.76,0,0,1,62.54,112.5Z"
+        fill-rule="evenodd" fill="url(#GradientFill_2)"/>
+    <path style="fill: #cea274" d="M62.49,122.75A59,59,0,0,1,3.82,63.51l4.53,0A54.43,54.43,0,1,0,63.05,9.36l0-4.52a59,59,0,0,1-.58,117.91Z"
+          fill-rule="evenodd" fill="url(#GradientFill_2-2)"/>
+    <path style="fill: #cea274" d="M111.62,113.45l-3.18-3.21a65,65,0,0,0,.44-91.86l3.22-3.18A69.55,69.55,0,0,1,111.62,113.45Z"
+          fill-rule="evenodd" fill="url(#GradientFill_2-3)"/>
+    <path style="fill: #575757"
+        d="M72.06,64.65v0c.25-.43.58-1,.89-1.6h0a8.56,8.56,0,0,0,.79-1.67h0c.25-.64.47-1.28.57-1.64A21.3,21.3,0,0,0,43.5,34.86a25.87,25.87,0,0,0-3.58,2.51c-6.74,6.2-9.17,15.21-5.76,23.93A22.17,22.17,0,0,0,39,68.59,21.36,21.36,0,0,0,64.34,72c.54-.29,1-.65,1.49-.89L77.58,82.9c2,2,3.89,3.9,5.88,5.88.7.69,2.06,2.29,3.16,2.73a4.52,4.52,0,0,0,4.54-.88,4.46,4.46,0,0,0,.9-4.46c-.43-1.18-2-2.47-2.7-3.19-4.8-4.87-10-9.85-14.71-14.7-1-1-2.06-2-3-3l.4-.65Zm-3.7-1a18.1,18.1,0,0,1-9.29,6.67,17.64,17.64,0,1,1,3.59-32.22,17.64,17.64,0,0,1,8,20.85,17.42,17.42,0,0,1-.82,2h0C69.87,61,69.15,62.34,68.36,63.63Z"
+        fill-rule="evenodd" fill="url(#GradientFill_2-4)"/>
+    <path style="fill: #575757"
+        d="M53,38.17a15.26,15.26,0,0,0-8.89,3.53c-.45.39-1.32,1-1.29,1.7,0,1,1.29,1.15,1.85.58A13.2,13.2,0,0,1,58.59,41c.85.33,1.85.11,1.74-.94-.08-.86-1.11-1-1.86-1.26A15.36,15.36,0,0,0,53,38.17Z"
+        fill-rule="evenodd" fill="url(#GradientFill_2-5)"/>
+    <path style="fill: #575757" d="M66.78,47.15c-1.42.66.21,1.76.41,6.2,0,.74.58,1.34,1.39,1,1.19-.46.54-3.14.29-4.27S68.18,46.5,66.78,47.15Z"
+          fill-rule="evenodd" fill="url(#GradientFill_2-6)"/>
+</svg>
